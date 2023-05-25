@@ -43,7 +43,7 @@ const ctx = document.getElementById('myChart');
         label: 'Deficit Amount',
         data: [<?php echo $numberOne ?>, <?php echo $numberTwo ?>, <?php echo $numberThree ?>],
         borderWidth: 1,
-        backgroundColor: ['#40310a', '#37400a', '#170a40']
+        backgroundColor: ['#dbfcff', '#faff7f', '#ff2483']
       }]
     },
     options: {
